@@ -9,7 +9,9 @@ group. A user data file will do the following actions:
 
 • Install Active Directory Domain Services
 
-• Promoting Server to Domain Controller • Install and configure the DHCP
+• Promoting Server to Domain Controller
+
+• Install and configure the DHCP
 role.
 
 Here's the summary architecture.
